@@ -39,7 +39,7 @@ public class Pessoa {
         this.nome = nome;
         this.altura = altura;
     }
-    Pessoa (String nome, double altura, double peso){
+  public  Pessoa (String nome, double altura, double peso){
         this.nome = nome;
         this.altura = altura;
         this.peso = peso;
