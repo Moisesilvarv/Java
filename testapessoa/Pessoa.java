@@ -29,13 +29,13 @@ public class Pessoa {
     public void setPeso(double peso) {
         this.peso = peso;
     }
-    Pessoa (){
+    public Pessoa (){
         
     }
-    Pessoa (String nome){
+    public  Pessoa (String nome){
         this.nome = nome;
     }
-    Pessoa (String nome, double altura){
+    public  Pessoa (String nome, double altura){
         this.nome = nome;
         this.altura = altura;
     }
