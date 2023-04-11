@@ -8,7 +8,7 @@ public class TestaPessoa {
 
         System.out.println("Nome da pessoa: " + p1.getNome());
         System.out.println("Altura da pessoa: " + p1.getAltura());
-        System.out.println("Peso da pesosa: " + p1.getPeso());
+        System.out.println("Peso da pessoa: " + p1.getPeso());
         
         Funcionario f1 = new Funcionario(1000, 3500, "Desenvolveddor JR");
         p1.setNome("Beto");
